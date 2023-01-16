@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/slimen/static/css/main.b2d27fd4.css",
+    "main.js": "/slimen/static/js/main.ede83e96.js",
+    "static/js/787.68a96b90.chunk.js": "/slimen/static/js/787.68a96b90.chunk.js",
+    "index.html": "/slimen/index.html",
+    "main.b2d27fd4.css.map": "/slimen/static/css/main.b2d27fd4.css.map",
+    "main.ede83e96.js.map": "/slimen/static/js/main.ede83e96.js.map",
+    "787.68a96b90.chunk.js.map": "/slimen/static/js/787.68a96b90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2d27fd4.css",
+    "static/js/main.ede83e96.js"
+  ]
+}
