@@ -1,0 +1,12 @@
+.container-a {
+    /*border: 1px solid green;*/
+    /*justify-content: center;*/
+    padding-left: 1em;
+    padding-right: 1em;
+    display: block;
+}
+
+.child-div{
+    border: 1px solid red;
+    margin: 0 20px;
+}
